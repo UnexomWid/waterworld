@@ -1,0 +1,7 @@
+data*/
+venv/
+main-old.py
+main-oldconv.py
+main_conv.py
+__pycache__/
+.idea/
